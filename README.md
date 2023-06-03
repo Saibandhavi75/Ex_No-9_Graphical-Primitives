@@ -119,7 +119,7 @@ public class MainActivity extends AppCompatActivity {
 ```
 
 ## Output:
-![output](?raw=true)
+![output](https://github.com/Saibandhavi75/Ex_No-9_Graphical-Primitives/blob/main/java%2010.png?raw=true)
 
 
 ## Result:
